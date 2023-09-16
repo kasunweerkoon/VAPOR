@@ -53,3 +53,8 @@ angular:
   y: 0.0
   z: 0.0"  
 ```
+# Training
+```
+cd catkin_ws/src/VAPOR/training
+python train_offline.py
+```
