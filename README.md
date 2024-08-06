@@ -1,6 +1,8 @@
 # [VAPOR: Legged Robot Navigation in Outdoor Vegetation using Offline Reinforcement Learning (ICRA 2024)](https://arxiv.org/pdf/2309.07832.pdf)
 Kasun Weerakoon, Adarsh Jagan Sathyamoorthy, Mohamed Elnoor, Dinesh Manocha
 
+![VAPOR System Architecture](https://github.com/kasunweerkoon/VAPOR/blob/master/vapor-system-architecture.png)
+
 ## Abstract
 
 We present VAPOR, a novel method for autonomous legged robot navigation in unstructured, densely vegetated outdoor environments using offline Reinforcement Learning (RL). 
@@ -15,9 +17,6 @@ and decrease the normalized trajectory length by up to 11.2% compared to existin
 
 # Video
 A video summary and demonstrations of the system can be found [here](https://www.youtube.com/watch?v=toPUHt6Mn8A&t=1s)
-
-
-![VAPOR System Architecture](https://github.com/kasunweerkoon/VAPOR/blob/master/vapor-system-architecture.png)
 
 
 # Dependencies
