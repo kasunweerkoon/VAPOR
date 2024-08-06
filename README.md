@@ -1,4 +1,4 @@
-# [VAPOR: Legged Robot Navigation in Outdoor Vegetation using Offline Reinforcement Learning](https://arxiv.org/pdf/2309.07832.pdf)
+# [VAPOR: Legged Robot Navigation in Outdoor Vegetation using Offline Reinforcement Learning (ICRA 2024)](https://arxiv.org/pdf/2309.07832.pdf)
 Kasun Weerakoon, Adarsh Jagan Sathyamoorthy, Mohamed Elnoor, Dinesh Manocha
 
 ## Abstract
