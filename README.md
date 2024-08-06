@@ -16,6 +16,10 @@ and decrease the normalized trajectory length by up to 11.2% compared to existin
 # Video
 A video summary and demonstrations of the system can be found [here](https://www.youtube.com/watch?v=toPUHt6Mn8A&t=1s)
 
+
+![VAPOR System Architecture](https://github.com/username/repository/blob/main/path/to/image.png)
+
+
 # Dependencies
 
 This implementation builds on the Robotic Operating System (ROS-Noetic) and Pytorch. 
