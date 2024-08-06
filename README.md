@@ -13,6 +13,9 @@ We demonstrate our method's capabilities on a Spot robot in complex real-world o
 We observe that VAPOR's actions improve success rates by up to 40%, decrease the average current consumption by up to 2.9%, 
 and decrease the normalized trajectory length by up to 11.2% compared to existing end-to-end offline RL and other outdoor navigation methods.
 
+# Video
+A video summary and demonstrations of the system can be found [here](https://www.youtube.com/watch?v=toPUHt6Mn8A&t=1s)
+
 # Dependencies
 
 This implementation builds on the Robotic Operating System (ROS-Noetic) and Pytorch. 
